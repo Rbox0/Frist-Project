@@ -64,11 +64,11 @@ li {
 }
 
 .perfumes {
-    background-color: rgb(255, 255, 255);
-    margin-right: 200px;
-    margin-left: 700px;
-    padding: 10px 30px;
-    border-radius: 20px;
+     background-color: rgb(255, 255, 255);
+    margin-right: 50%;
+    margin-left: 50%;
+    padding: 10px 30px 70px;
+    border-radius: 10px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
     text-align: center;
     height: 220px;
@@ -76,11 +76,11 @@ li {
 }
 
 .shoes {
-    background-color: rgb(255, 255, 255);
-    margin-right: 200px;
-    margin-left: 700px;
-    padding: 10px 30px;
-    border-radius: 20px;
+     background-color: rgb(255, 255, 255);
+    margin-right: 50%;
+    margin-left: 50%;
+    padding: 10px 30px 70px;
+    border-radius: 10px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
     text-align: center;
     height: 220px;
